@@ -105,3 +105,8 @@ let categories = [
     name: "Sports",
   },
 ];
+
+module.exports = {
+  products,
+  categories,
+};
